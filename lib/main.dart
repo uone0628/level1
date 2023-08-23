@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         //brightness: Brightness.dark,
         //primaryColor: Colors.deepPurpleAccent,
         //backgroundColor: Color.fromRGBO(r, g, b, opacity),
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.deepPurple,
 
       ),
       home: ShoppingPage(),
